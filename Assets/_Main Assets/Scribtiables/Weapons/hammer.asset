@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48d25e235ca014f05be8ac3cbf80ab47, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  name: Hammer
+  cardImage: {fileID: 21300000, guid: bb41569b46502404a81a0d1b247f7e00, type: 3}
+  cardInactiveImage: {fileID: 21300000, guid: 6b8f71178b9ee4b93af54df573626e8b, type: 3}
+  cardImagePasif: {fileID: 21300000, guid: be68e5139ce99499ea54bfd9f21ba57a, type: 3}
+  objSprite: {fileID: 21300000, guid: 040ff642837284e778a659f449cde853, type: 3}
+  price: 500000
+  itemState: 0
+  modelPrefeb: {fileID: 1573774403645437558, guid: c69e6f33e057041f0882577074a2960e,
+    type: 3}
+  weapon: 1
+  damageAmount: 350
+  weaponShootBlend: 0
+  longRangeWeapon: 0
+  hat: 0

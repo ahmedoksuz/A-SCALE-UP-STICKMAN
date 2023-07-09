@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48d25e235ca014f05be8ac3cbf80ab47, type: 3}
+  m_Name: Child
+  m_EditorClassIdentifier: 
+  name: Child
+  cardImage: {fileID: 21300000, guid: f6c79bf08e77147488ebbf8cab4ee51b, type: 3}
+  cardInactiveImage: {fileID: 21300000, guid: a6d08da2d1cd442cab03e6b12ef319ad, type: 3}
+  cardImagePasif: {fileID: 21300000, guid: be68e5139ce99499ea54bfd9f21ba57a, type: 3}
+  objSprite: {fileID: 21300000, guid: 51490e656e90f4c2fbdfe359569d05fb, type: 3}
+  price: 10000
+  itemState: 0
+  modelPrefeb: {fileID: 0}
+  weapon: 0
+  damageAmount: 0
+  weaponShootBlend: 0
+  longRangeWeapon: 0
+  hat: 0
